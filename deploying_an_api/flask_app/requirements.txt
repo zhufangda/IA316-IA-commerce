@@ -1,0 +1,7 @@
+Flask
+gunicorn>=19.7.1
+numpy
+keras
+tensorflow
+tqdm
+pandas
